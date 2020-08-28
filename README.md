@@ -5,3 +5,5 @@ Primer repositorio de Github para aprender el uso de Git
 1. Optimización
 2. Simulacion Montecarlo
 3. Ecuaciones diferenciales
+
+Nueva edición para el repositorio virtual
